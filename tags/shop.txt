@@ -3,7 +3,7 @@ My Shop Application
 Features:
 - Home page
 - Product listing
-My Shop Application
+- Product search (bug fixed)
 
 Features:
 - Home page
