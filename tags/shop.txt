@@ -1,0 +1,5 @@
+My Shop Application
+
+Features:
+- Home page
+- Product listing
